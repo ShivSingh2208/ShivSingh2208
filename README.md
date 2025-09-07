@@ -247,16 +247,45 @@ Hypothesis Testing • A/B Testing • Confidence Intervals • ROC‑AUC • Pr
 ---
 
 <details>
-<summary><b>📊 GitHub Stats & Activity</b></summary>
-<br>
-<div align="center">
+<!-- ===== Private-contribution-enabled widgets ===== -->
+<!-- Replace the three domains below with YOUR Vercel deployments -->
 
-![Shiv Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivSingh2208\&show_icons=true\&count_private=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&cache_seconds=3600)
+<p align="center">
+  <!-- Activity Graph (private contributions supported when TOKEN is set on your deployment) -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://<ACTIVITY_GRAPH_DOMAIN>/graph?username=ShivSingh2208&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true"
+      alt="Shiv Singh's Contribution Graph"
+    />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSingh2208\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&cache_seconds=3600)
+<p align="center">
+  <!-- Stats Card (counts private when PAT_1 is set on your deployment) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://<STATS_DOMAIN>/api?username=ShivSingh2208&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      alt="Shiv's GitHub Stats"
+    />
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivSingh2208\&theme=tokyonight\&hide_border=true\&background=0D1117\&cache_seconds=3600)
+<p align="center">
+  <!-- Top Languages (uses same stats deployment so it can access private repo info) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://<STATS_DOMAIN>/api/top-langs/?username=ShivSingh2208&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
-</div>
-<br>
-</details>
+<p align="center">
+  <!-- Streak Stats (private supported when GH_TOKEN is set on your deployment) -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://<STREAK_DOMAIN>/?user=ShivSingh2208&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
