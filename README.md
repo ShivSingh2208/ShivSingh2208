@@ -226,51 +226,21 @@ Hypothesis Testing • A/B Testing • Confidence Intervals • ROC‑AUC • Pr
 <!-- Optional once available:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 -->
+## 📈 GitHub Performance Analytics
+
+<div align="center">
+
+![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivSingh2208\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=0D1117\&title_color=F85D7F\&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivSingh2208\&theme=radical\&hide_border=true\&background=0D1117\&stroke=0000\&ring=F85D7F\&fire=F8D866\&currStreakLabel=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSingh2208\&layout=compact\&theme=radical\&hide_border=true\&bg_color=0D1117\&title_color=F85D7F)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivSingh2208\&theme=react-dark\&hide_border=true\&bg_color=0D1117\&color=F85D7F\&line=F8D866\&point=FFFFFF)
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ShivSingh2208\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4\&row=1)
 
 </div>
 
----
+</div>
 
-<details>
-<!-- ===== Private-contribution-enabled widgets ===== -->
-<!-- Replace the three domains below with YOUR Vercel deployments -->
-
-<p align="center">
-  <!-- Activity Graph (private contributions supported when TOKEN is set on your deployment) -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://<ACTIVITY_GRAPH_DOMAIN>/graph?username=ShivSingh2208&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true"
-      alt="Shiv Singh's Contribution Graph"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Stats Card (counts private when PAT_1 is set on your deployment) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://<STATS_DOMAIN>/api?username=ShivSingh2208&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-      alt="Shiv's GitHub Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Top Languages (uses same stats deployment so it can access private repo info) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://<STATS_DOMAIN>/api/top-langs/?username=ShivSingh2208&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Streak Stats (private supported when GH_TOKEN is set on your deployment) -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      src="https://<STREAK_DOMAIN>/?user=ShivSingh2208&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
